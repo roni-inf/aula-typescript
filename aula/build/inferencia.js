@@ -1,0 +1,11 @@
+"use strict";
+let nome;
+nome = "Maria";
+let valor = 1000;
+let matricula;
+matricula = "123";
+matricula = 456;
+console.log(matricula);
+console.log(typeof matricula);
+let preco;
+console.log(preco);
